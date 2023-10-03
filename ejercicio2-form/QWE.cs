@@ -8,5 +8,6 @@ namespace ejercicio2_form
 {
     internal class QWE
     {
+        public string wa;
     }
 }
